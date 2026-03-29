@@ -119,8 +119,9 @@ http://localhost/wplab2
 * добавлена форма обратной связи
 * созданы несколько записей (с текстом и изображениями)
 
+<img width="1280" height="955" alt="Image" src="https://github.com/user-attachments/assets/31eb452d-413d-4834-8555-83521e06e006" /> 
 *Скрин 11: страница Contacte с формой*
-*Скрин 12: список записей*
+<img width="1280" height="991" alt="Image" src="https://github.com/user-attachments/assets/1e4152b0-d767-4863-9262-0ed643327198" />
 *Скрин 13: отображение сайта*
 
 ---
