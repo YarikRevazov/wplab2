@@ -65,8 +65,11 @@ http://localhost/wplab2
 
 * Выбран вариант "Название записи"
 
-*Скрин 5: настройки сайта (Settings → General)*
-*Скрин 6: настройки постоянных ссылок*
+<img width="1280" height="1202" alt="Image" src="https://github.com/user-attachments/assets/ea47271a-9534-4e34-be82-a4f32a33ce4b" />
+*Скрин 4: настройки сайта (Settings → General)*
+<img width="1280" height="225" alt="Image" src="https://github.com/user-attachments/assets/9b09aa5b-14da-475c-8336-c63460cf9981" />
+<img width="1280" height="1152" alt="Image" src="https://github.com/user-attachments/assets/ddc6ffb0-bbb2-443b-b180-ae209548f18b" />
+*Скрин 5: настройки постоянных ссылок*
 
 ---
 
