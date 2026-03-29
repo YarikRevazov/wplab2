@@ -88,7 +88,7 @@ http://localhost/wplab2
 
 <img width="1205" height="997" alt="Image" src="https://github.com/user-attachments/assets/4c723c29-12d6-46e4-baae-8b4d95f61402" />
 <img width="599" height="769" alt="Image" src="https://github.com/user-attachments/assets/62f87810-497b-433c-8e8e-3d77cee3ea78" />
-*Скрин 7: установленная тема Astra*
+*Скрин 6: установленная тема Astra*
 
 ---
 
@@ -107,7 +107,7 @@ http://localhost/wplab2
 Один из плагинов был деактивирован для проверки его работы.
 
 <img width="1280" height="959" alt="Image" src="https://github.com/user-attachments/assets/3ab946c6-810b-4fb0-862d-cee269d67e81" />
-*Скрин 9: список установленных плагинов*
+*Скрин 7: список установленных плагинов*
 
 ---
 
@@ -120,9 +120,9 @@ http://localhost/wplab2
 * созданы несколько записей (с текстом и изображениями)
 
 <img width="1280" height="955" alt="Image" src="https://github.com/user-attachments/assets/31eb452d-413d-4834-8555-83521e06e006" /> 
-*Скрин 11: страница Contacte с формой*
+*Скрин 8: страница Contacte с формой*
 <img width="1280" height="991" alt="Image" src="https://github.com/user-attachments/assets/1e4152b0-d767-4863-9262-0ed643327198" />
-*Скрин 13: отображение сайта*
+*Скрин 9: отображение сайта*
 
 ---
 
