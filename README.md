@@ -1,4 +1,4 @@
-# wplab2
+
 # Лабораторная работа №2
 
 ## Введение в WordPress
@@ -23,8 +23,9 @@
 Также была создана база данных в phpMyAdmin:
 
 * Имя базы данных: wplab2
-
+<img width="1030" height="431" alt="Image" src="https://github.com/user-attachments/assets/d7272269-7494-4459-a191-e960fc782b04" />
  *Скрин 1: XAMPP с запущенными Apache и MySQL*
+  <img width="1280" height="631" alt="Image" src="https://github.com/user-attachments/assets/402a474c-7a00-47a0-9b4b-18045b610d31" />
  *Скрин 2: phpMyAdmin с созданной базой данных*
 
   ---
@@ -48,8 +49,8 @@ http://localhost/wplab2
 * Пароль: (пусто)
 * Хост: 127.0.0.1:3307
 
-*Скрин 3: форма подключения к базе данных*
-*Скрин 4: успешная установка WordPress*
+<img width="1280" height="1260" alt="Image" src="https://github.com/user-attachments/assets/8730ee3f-17da-4cc8-92b0-d756b4b793e8" />
+*Скрин 3: успешная установка WordPress*
 
 ---
 
