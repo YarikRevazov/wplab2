@@ -86,8 +86,9 @@ http://localhost/wplab2
 * изменена цветовая схема
 * изменено название сайта
 
+<img width="1205" height="997" alt="Image" src="https://github.com/user-attachments/assets/4c723c29-12d6-46e4-baae-8b4d95f61402" />
+<img width="599" height="769" alt="Image" src="https://github.com/user-attachments/assets/62f87810-497b-433c-8e8e-3d77cee3ea78" />
 *Скрин 7: установленная тема Astra*
-*Скрин 8: внешний вид сайта после изменения темы*
 
 ---
 
@@ -105,8 +106,8 @@ http://localhost/wplab2
 
 Один из плагинов был деактивирован для проверки его работы.
 
+<img width="1280" height="959" alt="Image" src="https://github.com/user-attachments/assets/3ab946c6-810b-4fb0-862d-cee269d67e81" />
 *Скрин 9: список установленных плагинов*
-*Скрин 10: форма Contact Form 7*
 
 ---
 
